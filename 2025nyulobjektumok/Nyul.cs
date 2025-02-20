@@ -16,6 +16,7 @@ namespace _2025nyulobjektumok
             this.xkordinata = xkordinata;
             this.ykordinata = ykordinata;
 			Console.WriteLine();
+			//valami
         }
     }
 }
