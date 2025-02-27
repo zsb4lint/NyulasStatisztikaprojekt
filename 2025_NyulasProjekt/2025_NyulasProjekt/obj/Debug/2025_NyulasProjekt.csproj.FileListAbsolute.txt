@@ -1,0 +1,10 @@
+H:\12.OSZTÁLY\C#\2025_NyulasProjekt\2025_NyulasProjekt\bin\Debug\2025_NyulasProjekt.exe.config
+H:\12.OSZTÁLY\C#\2025_NyulasProjekt\2025_NyulasProjekt\bin\Debug\2025_NyulasProjekt.exe
+H:\12.OSZTÁLY\C#\2025_NyulasProjekt\2025_NyulasProjekt\bin\Debug\2025_NyulasProjekt.pdb
+H:\12.OSZTÁLY\C#\2025_NyulasProjekt\2025_NyulasProjekt\obj\Debug\2025_NyulasProjekt.csproj.AssemblyReference.cache
+H:\12.OSZTÁLY\C#\2025_NyulasProjekt\2025_NyulasProjekt\obj\Debug\_2025_NyulasProjekt.Form1.resources
+H:\12.OSZTÁLY\C#\2025_NyulasProjekt\2025_NyulasProjekt\obj\Debug\_2025_NyulasProjekt.Properties.Resources.resources
+H:\12.OSZTÁLY\C#\2025_NyulasProjekt\2025_NyulasProjekt\obj\Debug\2025_NyulasProjekt.csproj.GenerateResource.cache
+H:\12.OSZTÁLY\C#\2025_NyulasProjekt\2025_NyulasProjekt\obj\Debug\2025_NyulasProjekt.csproj.CoreCompileInputs.cache
+H:\12.OSZTÁLY\C#\2025_NyulasProjekt\2025_NyulasProjekt\obj\Debug\2025_NyulasProjekt.exe
+H:\12.OSZTÁLY\C#\2025_NyulasProjekt\2025_NyulasProjekt\obj\Debug\2025_NyulasProjekt.pdb
