@@ -1,0 +1,10 @@
+C:\Users\marti\OneDrive\Asztali gép\AAAA\NyuszikésMezőkForm\NyuszikésMezőkForm\bin\Debug\NyuszikésMezőkForm.exe.config
+C:\Users\marti\OneDrive\Asztali gép\AAAA\NyuszikésMezőkForm\NyuszikésMezőkForm\bin\Debug\NyuszikésMezőkForm.exe
+C:\Users\marti\OneDrive\Asztali gép\AAAA\NyuszikésMezőkForm\NyuszikésMezőkForm\bin\Debug\NyuszikésMezőkForm.pdb
+C:\Users\marti\OneDrive\Asztali gép\AAAA\NyuszikésMezőkForm\NyuszikésMezőkForm\obj\Debug\NyuszikésMezőkForm.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Asztali gép\AAAA\NyuszikésMezőkForm\NyuszikésMezőkForm\obj\Debug\NyuszikésMezőkForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\marti\OneDrive\Asztali gép\AAAA\NyuszikésMezőkForm\NyuszikésMezőkForm\obj\Debug\NyuszikésMezőkForm.Properties.Resources.resources
+C:\Users\marti\OneDrive\Asztali gép\AAAA\NyuszikésMezőkForm\NyuszikésMezőkForm\obj\Debug\NyuszikésMezőkForm.csproj.GenerateResource.cache
+C:\Users\marti\OneDrive\Asztali gép\AAAA\NyuszikésMezőkForm\NyuszikésMezőkForm\obj\Debug\NyuszikésMezőkForm.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Asztali gép\AAAA\NyuszikésMezőkForm\NyuszikésMezőkForm\obj\Debug\NyuszikésMezőkForm.exe
+C:\Users\marti\OneDrive\Asztali gép\AAAA\NyuszikésMezőkForm\NyuszikésMezőkForm\obj\Debug\NyuszikésMezőkForm.pdb
