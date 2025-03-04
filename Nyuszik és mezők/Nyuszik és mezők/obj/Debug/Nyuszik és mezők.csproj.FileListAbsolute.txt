@@ -1,0 +1,8 @@
+C:\Users\marti\OneDrive\Asztali gép\AAAA\Nyuszik és mezők\Nyuszik és mezők\bin\Debug\Nyuszik és mezők.exe.config
+C:\Users\marti\OneDrive\Asztali gép\AAAA\Nyuszik és mezők\Nyuszik és mezők\bin\Debug\Nyuszik és mezők.exe
+C:\Users\marti\OneDrive\Asztali gép\AAAA\Nyuszik és mezők\Nyuszik és mezők\bin\Debug\Nyuszik és mezők.pdb
+C:\Users\marti\OneDrive\Asztali gép\AAAA\Nyuszik és mezők\Nyuszik és mezők\obj\Debug\Nyuszik és mezők.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Asztali gép\AAAA\Nyuszik és mezők\Nyuszik és mezők\obj\Debug\Nyuszik és mezők.csproj.SuggestedBindingRedirects.cache
+C:\Users\marti\OneDrive\Asztali gép\AAAA\Nyuszik és mezők\Nyuszik és mezők\obj\Debug\Nyuszik és mezők.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Asztali gép\AAAA\Nyuszik és mezők\Nyuszik és mezők\obj\Debug\Nyuszik és mezők.exe
+C:\Users\marti\OneDrive\Asztali gép\AAAA\Nyuszik és mezők\Nyuszik és mezők\obj\Debug\Nyuszik és mezők.pdb
