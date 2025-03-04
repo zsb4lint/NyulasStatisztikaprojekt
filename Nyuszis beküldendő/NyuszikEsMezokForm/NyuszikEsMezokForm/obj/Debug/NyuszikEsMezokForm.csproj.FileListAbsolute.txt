@@ -1,0 +1,21 @@
+C:\Users\marti\OneDrive\Asztali gép\Szenvedés\NyuszikEsMezokForm\NyuszikEsMezokForm\obj\Debug\NyuszikEsMezokForm.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Asztali gép\Szenvedés\NyuszikEsMezokForm\NyuszikEsMezokForm\obj\Debug\NyuszikEsMezokForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\marti\OneDrive\Asztali gép\Szenvedés\NyuszikEsMezokForm\NyuszikEsMezokForm\obj\Debug\NyuszikEsMezokForm.Form1.resources
+C:\Users\marti\OneDrive\Asztali gép\Szenvedés\NyuszikEsMezokForm\NyuszikEsMezokForm\obj\Debug\NyuszikEsMezokForm.Properties.Resources.resources
+C:\Users\marti\OneDrive\Asztali gép\Szenvedés\NyuszikEsMezokForm\NyuszikEsMezokForm\obj\Debug\NyuszikEsMezokForm.csproj.GenerateResource.cache
+C:\Users\marti\OneDrive\Asztali gép\Szenvedés\NyuszikEsMezokForm\NyuszikEsMezokForm\obj\Debug\NyuszikEsMezokForm.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Asztali gép\Nyuszis beküldendő\NyuszikEsMezokForm\NyuszikEsMezokForm\bin\Debug\NyuszikEsMezokForm.exe.config
+C:\Users\marti\OneDrive\Asztali gép\Nyuszis beküldendő\NyuszikEsMezokForm\NyuszikEsMezokForm\bin\Debug\NyuszikEsMezokForm.exe
+C:\Users\marti\OneDrive\Asztali gép\Nyuszis beküldendő\NyuszikEsMezokForm\NyuszikEsMezokForm\bin\Debug\NyuszikEsMezokForm.pdb
+C:\Users\marti\OneDrive\Asztali gép\Nyuszis beküldendő\NyuszikEsMezokForm\NyuszikEsMezokForm\bin\Debug\Nyuszik és mezők.exe
+C:\Users\marti\OneDrive\Asztali gép\Nyuszis beküldendő\NyuszikEsMezokForm\NyuszikEsMezokForm\bin\Debug\Nyuszik és mezők.pdb
+C:\Users\marti\OneDrive\Asztali gép\Nyuszis beküldendő\NyuszikEsMezokForm\NyuszikEsMezokForm\bin\Debug\Nyuszik és mezők.exe.config
+C:\Users\marti\OneDrive\Asztali gép\Nyuszis beküldendő\NyuszikEsMezokForm\NyuszikEsMezokForm\obj\Debug\NyuszikEsMezokForm.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Asztali gép\Nyuszis beküldendő\NyuszikEsMezokForm\NyuszikEsMezokForm\obj\Debug\NyuszikEsMezokForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\marti\OneDrive\Asztali gép\Nyuszis beküldendő\NyuszikEsMezokForm\NyuszikEsMezokForm\obj\Debug\NyuszikEsMezokForm.Form1.resources
+C:\Users\marti\OneDrive\Asztali gép\Nyuszis beküldendő\NyuszikEsMezokForm\NyuszikEsMezokForm\obj\Debug\NyuszikEsMezokForm.Properties.Resources.resources
+C:\Users\marti\OneDrive\Asztali gép\Nyuszis beküldendő\NyuszikEsMezokForm\NyuszikEsMezokForm\obj\Debug\NyuszikEsMezokForm.csproj.GenerateResource.cache
+C:\Users\marti\OneDrive\Asztali gép\Nyuszis beküldendő\NyuszikEsMezokForm\NyuszikEsMezokForm\obj\Debug\NyuszikEsMezokForm.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Asztali gép\Nyuszis beküldendő\NyuszikEsMezokForm\NyuszikEsMezokForm\obj\Debug\NyuszikEsMezokForm.csproj.CopyComplete
+C:\Users\marti\OneDrive\Asztali gép\Nyuszis beküldendő\NyuszikEsMezokForm\NyuszikEsMezokForm\obj\Debug\NyuszikEsMezokForm.exe
+C:\Users\marti\OneDrive\Asztali gép\Nyuszis beküldendő\NyuszikEsMezokForm\NyuszikEsMezokForm\obj\Debug\NyuszikEsMezokForm.pdb
