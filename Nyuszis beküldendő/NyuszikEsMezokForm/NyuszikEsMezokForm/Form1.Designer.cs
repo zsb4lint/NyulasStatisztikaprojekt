@@ -45,10 +45,14 @@
             this.button4 = new System.Windows.Forms.Button();
             this.Zoom = new System.Windows.Forms.HScrollBar();
             this.General = new System.Windows.Forms.Button();
+            this.label4 = new System.Windows.Forms.Label();
+            this.Esely = new System.Windows.Forms.TrackBar();
+            this.label5 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.Tabla)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.chart1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Sor)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Oszlop)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Esely)).BeginInit();
             this.SuspendLayout();
             // 
             // Tabla
@@ -99,7 +103,7 @@
             // 
             this.listBox.FormattingEnabled = true;
             this.listBox.ItemHeight = 16;
-            this.listBox.Location = new System.Drawing.Point(668, 13);
+            this.listBox.Location = new System.Drawing.Point(665, 12);
             this.listBox.Name = "listBox";
             this.listBox.Size = new System.Drawing.Size(120, 196);
             this.listBox.TabIndex = 4;
@@ -134,7 +138,7 @@
             // 
             // Sor
             // 
-            this.Sor.Location = new System.Drawing.Point(507, 34);
+            this.Sor.Location = new System.Drawing.Point(507, 62);
             this.Sor.Minimum = new decimal(new int[] {
             1,
             0,
@@ -151,7 +155,7 @@
             // 
             // Oszlop
             // 
-            this.Oszlop.Location = new System.Drawing.Point(507, 64);
+            this.Oszlop.Location = new System.Drawing.Point(507, 34);
             this.Oszlop.Minimum = new decimal(new int[] {
             1,
             0,
@@ -202,11 +206,42 @@
             this.General.UseVisualStyleBackColor = true;
             this.General.Click += new System.EventHandler(this.General_Click);
             // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(504, 108);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(41, 16);
+            this.label4.TabIndex = 16;
+            this.label4.Text = "Esély";
+            // 
+            // Esely
+            // 
+            this.Esely.Location = new System.Drawing.Point(507, 137);
+            this.Esely.Maximum = 100;
+            this.Esely.Minimum = 1;
+            this.Esely.Name = "Esely";
+            this.Esely.Size = new System.Drawing.Size(120, 56);
+            this.Esely.TabIndex = 17;
+            this.Esely.Value = 1;
+            this.Esely.Scroll += new System.EventHandler(this.Esely_Scroll);
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(552, 108);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(0, 16);
+            this.label5.TabIndex = 18;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 477);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.Esely);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.General);
             this.Controls.Add(this.Zoom);
             this.Controls.Add(this.button4);
@@ -227,6 +262,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.chart1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Sor)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Oszlop)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Esely)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -248,6 +284,9 @@
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.HScrollBar Zoom;
         private System.Windows.Forms.Button General;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.TrackBar Esely;
+        private System.Windows.Forms.Label label5;
     }
 }
 

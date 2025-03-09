@@ -6,9 +6,20 @@ using System.Threading.Tasks;
 
 namespace Nyuszik_és_mezők
 {
-    public interface ElvagyHal
+    public interface IElvagyHal
     {
-        void Szule(int i, int j);
-        void Hale(int i, int j); //Fish?
+        /// <summary>
+        /// Megadja hogy az adott indexű nyúl szül-e a következő generációban
+        /// </summary>
+        /// <param name="i">sor</param>
+        /// <param name="j">oszlop</param>
+        void SzuletikE(Elohely elohely);
+
+        /// <summary>
+        /// Megadja hogy az adott indexű nyúl meghal-e a következő generációban
+        /// </summary>
+        /// <param name="i">sor</param>
+        /// <param name="j">oszlop</param>
+        void MeghalE(Elohely elohely); //Fish?
     }
 }

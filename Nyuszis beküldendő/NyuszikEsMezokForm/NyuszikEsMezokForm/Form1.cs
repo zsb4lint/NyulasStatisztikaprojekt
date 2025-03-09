@@ -31,20 +31,26 @@ namespace NyuszikEsMezokForm
         }
         private void ElohelyMegjelenit()
         {
-            for (int i = 0; i < Tabla.Columns.Count; i++)
+            for (int i = 0; i < Tabla.Rows.Count; i++)
             {
-                for (int j = 0; j < Tabla.Rows.Count; j++)
+                for (int j = 0; j < Tabla.Columns.Count; j++)
                 {
-                    if (elohely.mat[i, j].nyusziE == true)
+                    if (elohely.mat[i+1, j+1].nyusziE == true)
                     {
-                        Tabla.Rows[j].Cells[i].Value = "X";
+                        Tabla.Rows[i].Cells[j].Value = "X";
+                    }
+                    else
+                    {
+                        Tabla.Rows[i].Cells[j].Value = "";
                     }
                 }
             }
         }
         private void ElohelyGeneralas(int sor, int oszlop)
         {
-            elohely = Adatlekeres.General(sor, oszlop, 50);
+            int a = Esely.Value;
+            
+            elohely = Adatlekeres.General(sor, oszlop, a);
             ElohelyMegjelenit();
         }
         private void TablaMeret()
@@ -101,13 +107,22 @@ namespace NyuszikEsMezokForm
         private void General_Click(object sender, EventArgs e)
         {
             Generalas();
+            Console.WriteLine();
         }
-
+        
         private void KovLep_Click(object sender, EventArgs e)
         {
-            elohely = Futtathato.KovLepes(elohely.n, elohely.m);
-            elohely = Futtathato.Update(elohely.n, elohely.m);
+            Elohely.UpdateEloh(elohely);
+            elohely.SzuletikE(elohely);
+            elohely.MeghalE(elohely);
+            Futtathato.UpdateSzulHal(elohely);
             ElohelyMegjelenit();
+        }
+
+
+        private void Esely_Scroll(object sender, EventArgs e)
+        {
+            label5.Text = Convert.ToString(Esely.Value);
         }
     }
 }
